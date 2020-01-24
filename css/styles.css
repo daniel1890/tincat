@@ -74,10 +74,10 @@ h3 {
 
 .tinder-cat {
   transform: rotate(20deg);
-  width: 40%;
+  width: 275px;
   position: relative;
   z-index: 0;
-  margin-left: 7rem;
+  margin-left: 9rem;
 }
 
 /* Font Awesome */
